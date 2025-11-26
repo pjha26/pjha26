@@ -1,130 +1,121 @@
-<!-- ====== HEADER BANNER WITH ANIMATED NAME ====== -->
+<!-- ========================================================= -->
+<!--               PUSHKAR RAJ — AESTHETIC README              -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+I'm+Pushkar+Raj+👋;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java;Building+Modern+Web+Apps+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=F7AB0A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pushkar+Raj+👋;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java;Building+Modern+Digital+Experiences+✨" />
 </p>
+
+<!-- WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/wave.gif" width="100%" />
 
 ---
 
-## 🚀 About Me
+## 🎯 **About Me**
 
-Hi, I’m **Pushkar Raj**, a passionate **Full-Stack Developer** focused on building scalable, clean, and impactful applications.  
-I love creating real-world solutions using **MERN**, **Next.js**, **Java**, **Socket.IO**, and modern cloud APIs.
+I’m **Pushkar Raj**, a developer who loves building aesthetic, scalable and high-impact applications.  
+My focus areas include:
 
-I build:
-- Full-stack production-ready web apps  
-- Real-time communication systems  
-- Secure authentication workflows  
-- Payment-integrated applications  
-- Clean backend architecture with middlewares  
+- ⚡ Full-stack engineering with **MERN & Next.js**
+- 🔌 Real-time systems using **Socket.IO**
+- 💳 Payment workflows using **Stripe**
+- 🧩 Auth systems using **Clerk**
+- ☁️ Cloud assets with **Cloudinary**
+- 🎯 Clean backend architecture (middlewares, routing, REST)
 
-💡 Always learning, always building, always improving.
+✨ I turn ideas into smooth, fast, beautiful web experiences.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Gradient Title -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5CE1E6&size=28&center=true&vCenter=true&width=450&lines=⚙️+My+Tech+Stack" />
+</h2>
 
-### **Core Skills**
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python" />
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,java,python,tailwind,postman&perline=8" />
 </p>
 
-### **Real-Time & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
-  <img src="https://img.shields.io/badge/Middlewares-333?style=for-the-badge" />
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=cloudflare,github,vercel,linux,git&perline=8" />
 </p>
 
-### **APIs & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe" />
+<p align="center">
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/Stripe-5A67D8?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk" />
-  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary" />
+  <img src="https://img.shields.io/badge/Cloudinary-2E9FE6?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Projects
+<!-- PROJECTS HEADER -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E84AFF&size=28&center=true&vCenter=true&width=450&lines=🚀+Featured+Projects" />
+</h2>
 
-### 🌍 **Ghumo — Travel Booking & Discovery Platform**
-A modern travel experience platform to explore destinations, book trips, and manage itineraries.
+---
+
+## 🌍 **Ghumo — Travel Booking & Discovery Platform**
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss" />
+</p>
+
+> A modern, aesthetic travel discovery & booking platform.
+
+**Repo:** https://github.com/pjha26/ghumo  
 
 <details>
-<summary>🔎 View Details</summary>
+<summary>✨ More Details</summary>
 
-#### ✨ Features
-- Destination & Package Search  
-- Trip Booking Flow  
-- Dynamic Itinerary Builder  
-- Wishlists & User Accounts  
-- Fully Responsive UI  
-
-#### 🛠 Tech Stack  
-**Next.js • TypeScript • Node.js • Prisma • MongoDB • TailwindCSS**
-
-#### 🔗 Repository  
-👉 https://github.com/pjha26/ghumo
+- Destination & package search  
+- Sleek booking flow  
+- User accounts & wishlists  
+- Dynamic itinerary builder  
+- Cloud assets via Cloudinary  
 
 </details>
 
 ---
 
-### 🛒 **E-commerce Analytics Platform**
-A data-driven marketplace with business dashboards and modern architecture.
+## 🛒 **E-commerce Analytics Platform**
+> Data-driven ecommerce with real-time business analytics.
 
-<details>
-<summary>🔎 View Details</summary>
+- MERN stack  
+- Live dashboards (Power BI)  
+- Secure checkout system  
+- Event-driven updates  
 
-#### ✨ Features  
-- Product & Order Pipeline  
-- PowerBI Insights  
-- Secure Checkout System  
-- Real-time metrics with events  
-
-#### 🛠 Tech Stack  
-**MERN • PowerBI • Express • Event-Driven Architecture**
-
-#### 🔗 Repo  
-https://github.com/pushkarjha101/ecommerce-analytics
-
-</details>
+**Repo:** https://github.com/pushkarjha101/ecommerce-analytics
 
 ---
 
-### 🧩 **Real-Time Collaboration Editor**
-A Google-Docs-style real-time online editor with presence indicators.
+## 🧩 **Real-Time Collaboration Editor**
+> A Google Docs-style real-time editor with cursor sharing.
 
-<details>
-<summary>🔎 View Details</summary>
+- WebSockets + Socket.IO  
+- CRDT document sync  
+- Presence indicators  
+- Scalable architecture  
 
-#### ✨ Features  
-- Real-time cursor sharing  
-- CRDT sync  
-- Conflict-free editing  
-- Scalable backend  
-
-#### 🛠 Tech Stack  
-**Next.js · TypeScript · Redis · WebSockets**
-
-#### 🔗 Repo  
-https://github.com/pushkarjha101/realtime-collab
-
-</details>
+**Repo:** https://github.com/pushkarjha101/realtime-collab
 
 ---
 
-## 📊 GitHub Analytics
+<!-- WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/wave.gif" width="100%" />
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F79327&size=28&center=true&vCenter=true&width=450&lines=📊+GitHub+Analytics" />
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjha26&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjha26&theme=radical" height="165" />
 </p>
 
 <p align="center">
@@ -133,14 +124,23 @@ https://github.com/pushkarjha101/realtime-collab
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/pjha26  
-- **LinkedIn:** https://www.linkedin.com/in/pushkar-raj-339988313  
-- **Email:** praj80624@gmail.com  
+<p align="center">
+  <a href="https://github.com/pjha26">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pushkar-raj-339988313">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:praj80624@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
----
-
-## ⭐ Final Note
-If you like my work or find anything useful, consider giving a ⭐ to the repositories!
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
 
