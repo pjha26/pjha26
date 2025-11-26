@@ -1,58 +1,146 @@
-<!-- 🌈 Animated Gradient Title -->
-<p align="center">
-  <svg width="100%" height="120">
-    <defs>
-      <linearGradient id="grad">
-        <stop offset="0%" stop-color="#ff4d4d">
-          <animate attributeName="stop-color"
-            values="#ff4d4d; #ffcc00; #00eaff; #9b59b6; #ff4d4d"
-            dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#00eaff">
-          <animate attributeName="stop-color"
-            values="#00eaff; #ffcc00; #ff4d4d; #9b59b6; #00eaff"
-            dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
+<!-- ====== HEADER BANNER WITH ANIMATED NAME ====== -->
 
-    <text x="50%" y="70%" font-size="48" font-family="Montserrat"
-      fill="url(#grad)" text-anchor="middle">
-      🚀 My Tech Stack
-    </text>
-  </svg>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+I'm+Pushkar+Raj+👋;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java;Building+Modern+Web+Apps+✨" />
 </p>
 
 ---
 
-<!-- ✨ Animated Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Prisma;MongoDB+%7C+MySQL+%7C+Power+BI;Building+Modern+Apps+with+Clean+UI" />
+## 🚀 About Me
+
+Hi, I’m **Pushkar Raj**, a passionate **Full-Stack Developer** focused on building scalable, clean, and impactful applications.  
+I love creating real-world solutions using **MERN**, **Next.js**, **Java**, **Socket.IO**, and modern cloud APIs.
+
+I build:
+- Full-stack production-ready web apps  
+- Real-time communication systems  
+- Secure authentication workflows  
+- Payment-integrated applications  
+- Clean backend architecture with middlewares  
+
+💡 Always learning, always building, always improving.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Core Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python" />
+</p>
+
+### **Real-Time & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
+  <img src="https://img.shields.io/badge/Middlewares-333?style=for-the-badge" />
+</p>
+
+### **APIs & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe" />
+  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk" />
+  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary" />
 </p>
 
 ---
 
-<!-- 🔥 Fully Filled Icon Grid -->
+## 📂 Projects
+
+### 🌍 **Ghumo — Travel Booking & Discovery Platform**
+A modern travel experience platform to explore destinations, book trips, and manage itineraries.
+
+<details>
+<summary>🔎 View Details</summary>
+
+#### ✨ Features
+- Destination & Package Search  
+- Trip Booking Flow  
+- Dynamic Itinerary Builder  
+- Wishlists & User Accounts  
+- Fully Responsive UI  
+
+#### 🛠 Tech Stack  
+**Next.js • TypeScript • Node.js • Prisma • MongoDB • TailwindCSS**
+
+#### 🔗 Repository  
+👉 https://github.com/pjha26/ghumo
+
+</details>
+
+---
+
+### 🛒 **E-commerce Analytics Platform**
+A data-driven marketplace with business dashboards and modern architecture.
+
+<details>
+<summary>🔎 View Details</summary>
+
+#### ✨ Features  
+- Product & Order Pipeline  
+- PowerBI Insights  
+- Secure Checkout System  
+- Real-time metrics with events  
+
+#### 🛠 Tech Stack  
+**MERN • PowerBI • Express • Event-Driven Architecture**
+
+#### 🔗 Repo  
+https://github.com/pushkarjha101/ecommerce-analytics
+
+</details>
+
+---
+
+### 🧩 **Real-Time Collaboration Editor**
+A Google-Docs-style real-time online editor with presence indicators.
+
+<details>
+<summary>🔎 View Details</summary>
+
+#### ✨ Features  
+- Real-time cursor sharing  
+- CRDT sync  
+- Conflict-free editing  
+- Scalable backend  
+
+#### 🛠 Tech Stack  
+**Next.js · TypeScript · Redis · WebSockets**
+
+#### 🔗 Repo  
+https://github.com/pushkarjha101/realtime-collab
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjha26&theme=radical" height="165"/>
+</p>
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python" height="50" /><br/><br/>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" height="50" /><br/><br/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" height="50" /><br/><br/>
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50" /><br/><br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,powershell" height="50" /><br/><br/>
-
-  <!-- Other Skills -->
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjha26&layout=compact&theme=radical" />
 </p>
 
 ---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/pjha26  
+- **LinkedIn:** https://www.linkedin.com/in/pushkar-raj-339988313  
+- **Email:** praj80624@gmail.com  
+
+---
+
+## ⭐ Final Note
+If you like my work or find anything useful, consider giving a ⭐ to the repositories!
+
