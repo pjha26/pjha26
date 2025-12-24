@@ -1,131 +1,142 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pushkar+Raj;Full-Stack+Developer+(MERN);Building+Real-World+Web+Applications;DSA+%7C+Backend+%7C+Scalable+Systems" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Pushkar+Raj;Full-Stack+Developer+(MERN+%2B+Next.js);Auth+%7C+Payments+%7C+Scalable+Backends;Building+Real-World+Products)
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pjha26&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pjha26&label=Profile%20Views&color=6C63FF&style=flat)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** with a strong focus on **backend logic, clean APIs, and scalable system design**.  
-I enjoy building **real-world products** and solving problems using **data structures and algorithms**.
+I’m a **Full-Stack Developer** focused on building **production-grade web applications** with modern frontend frameworks, secure authentication, payment systems, and scalable backend logic.
 
-I’m currently looking for **SDE-1 / Full-Stack / Backend roles** at startups and product-focused teams.
+I enjoy working on **backend systems, APIs, authentication flows, payments**, and applying **DSA fundamentals** to write efficient and maintainable code.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🖥 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
 
-### ⚙ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🔐 Authentication & Security
-- JWT-based authentication  
-- Role-based access control (RBAC)  
-- Secure REST API design  
+- Framer Motion (animations)
+- Swiper.js (carousels & sliders)
 
 ---
 
-## 💻 Programming Languages
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,java" />
-</p>
+- RESTful API design
+- Modular backend architecture
 
 ---
 
-## 🛠 Tools & Platforms
+### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mongodb)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+---
+
+### 🔐 Authentication & Authorization
+![Auth](https://skillicons.dev/icons?i=nextjs)
+
+- NextAuth (OAuth & credentials)
+- Clerk (user management & sessions)
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+
+---
+
+### 💳 Payments
+![Payments](https://skillicons.dev/icons?i=stripe)
+
+- Stripe payment integration
+
+---
+
+### ☁️ Media & Storage
+![Cloud](https://skillicons.dev/icons?i=cloudinary)
+
+- Cloudinary (image & media handling)
+
+---
+
+### 🤖 Machine Learning / Computer Vision
+![ML](https://skillicons.dev/icons?i=python)
+
+- OpenCV (face recognition & analysis)
+
+---
+
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=javascript,java,python)
+
+---
+
+### 🛠 Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
 ---
 
 ## 🚀 Projects
 
 ### 🌍 **Ghumo — Travel & Stay Booking Platform (Airbnb-like)**
-🔗 https://github.com/pjha26  
 
-- Designed and built a full-stack accommodation booking platform  
-- Implemented listing, search, booking, and review workflows  
-- Built secure authentication with separate user and host roles  
-- Developed REST APIs for scalable backend communication  
-- Focused on real-world edge cases like availability and access control  
+- Full-stack accommodation booking platform inspired by Airbnb  
+- Property listing, booking, and review workflows  
+- Secure user & host authentication  
+- Integrated online payments for bookings  
+- Media handling for property images  
+- Smooth UI interactions and animations  
 
-**Tech:** React, Node.js, Express, MongoDB, JWT, REST APIs
+**Tech Used:**  
+Next.js, React, Node.js, Express.js, MongoDB,  
+NextAuth / Clerk, Stripe, Cloudinary,  
+Framer Motion, Swiper.js, REST APIs
 
 ---
 
 ### 📘 **Shiksha — Smart E-Learning Platform**
-🔗 https://github.com/pjha26  
 
-- Built an e-learning platform for managing courses and students  
-- Implemented course enrollment and progress tracking  
-- Developed an admin dashboard for content and user management  
-- Followed modular backend architecture for maintainability  
+- Learning management system for students and courses  
+- Course enrollment and progress tracking  
+- Admin dashboard for user & content management  
+- Secure authentication and access control  
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech Used:**  
+Next.js, React, Node.js, Express.js, MongoDB,  
+JWT Authentication, REST APIs
 
 ---
 
-### 🌱 **AI-Crop & ML Backend**
-🔗 https://github.com/pjha26  
+### 🤖 **ML Backend — Face Recognition & Concentration Detection**
 
-- Backend system integrating machine learning for agriculture use cases  
-- Designed APIs to serve crop prediction and recommendation models  
-- Built for easy integration with frontend dashboards and ML pipelines  
+- Machine-learning backend using computer vision  
+- Detects face presence and estimates user concentration  
+- Designed as a backend service that can integrate with web apps  
 
-**Tech:** Node.js, Express, Python (ML), REST APIs
+**Tech Used:**  
+Python, OpenCV
 
 ---
 
 ## 🧩 Problem Solving (DSA)
 
-- Solved **70+ problems on LeetCode**
+- Solved **70+ DSA problems on LeetCode**
 - Strong foundation in:
   - Arrays & Strings
   - Stack & Queue
   - Linked List
-- Comfortable explaining **time and space complexity**
+- Comfortable with **time and space complexity analysis**
 
 🔗 LeetCode: https://leetcode.com/
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pjha2186">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pjha2186@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pjha26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjha2186)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjha2186@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pjha26)
 
 ---
 
-<p align="center">
-  ⭐ If you find my work interesting, feel free to explore or star my repositories.
-</p>
+⭐ If you find my work interesting, feel free to explore or star my repositories.
