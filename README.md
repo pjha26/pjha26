@@ -19,17 +19,11 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 
 - Swiper.js (sliders & carousels)
 
----
-
 ### ⚙️ Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
----
-
 ### 🗄️ Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
-
----
 
 ### 🔐 Authentication & Authorization
 ![Auth](https://skillicons.dev/icons?i=nextjs)
@@ -39,33 +33,19 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 - JWT Authentication  
 - Role-Based Access Control (RBAC)
 
----
-
 ### 💳 Payments
 ![Stripe](https://skillicons.dev/icons?i=stripe)
 
-- Stripe Payment Gateway
-
----
-
 ### ☁️ Media & Storage
 ![Cloudinary](https://skillicons.dev/icons?i=cloudinary)
-
-- Cloudinary (image & media optimization)
-
----
 
 ### 🤖 Machine Learning / Computer Vision
 ![ML](https://skillicons.dev/icons?i=python)
 
 - OpenCV (face recognition & concentration analysis)
 
----
-
 ### 💻 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=javascript,java,python)
-
----
 
 ### 🛠 Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
@@ -81,7 +61,6 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 - Secure user & host authentication  
 - Online payments for bookings  
 - Media handling for property images  
-- Smooth UI interactions & animations  
 
 **Tech Used:**  
 Next.js, React, Node.js, Express.js, MongoDB,  
@@ -95,11 +74,9 @@ Framer Motion, Swiper.js, REST APIs
 - Learning management system for students & courses  
 - Course enrollment and progress tracking  
 - Admin dashboard for content & users  
-- Secure authentication and access control  
 
 **Tech Used:**  
-Next.js, React, Node.js, Express.js, MongoDB,  
-JWT Authentication, REST APIs
+Next.js, React, Node.js, Express.js, MongoDB, JWT
 
 ---
 
@@ -107,7 +84,6 @@ JWT Authentication, REST APIs
 
 - Computer vision–based ML backend  
 - Detects face presence and estimates user concentration  
-- Designed as a backend service for integration with web apps  
 
 **Tech Used:**  
 Python, OpenCV
@@ -116,21 +92,21 @@ Python, OpenCV
 
 ## 📊 Personal Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjha26&theme=tokyonight)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=pjha26&theme=github-dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha26&layout=compact&theme=tokyonight)
+### 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha26&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ## 🧩 Problem Solving (DSA)
 
 - Solved **70+ DSA problems on LeetCode**
-- Strong foundation in:
-  - Arrays & Strings
-  - Stack & Queue
-  - Linked List
+- Strong foundation in Arrays, Strings, Stack, Linked List
 - Comfortable with **time & space complexity analysis**
 
 🔗 LeetCode: https://leetcode.com/
