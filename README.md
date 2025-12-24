@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building **production-grade web applications** with modern frontend frameworks, secure authentication, payment systems, and scalable backend logic.
+I’m a **Full-Stack Developer** focused on building **production-grade web applications** with modern frontend frameworks, secure authentication systems, payment integrations, and scalable backend logic.
 
 I enjoy working on **backend systems, APIs, authentication flows, payments**, and applying **DSA fundamentals** to write efficient and maintainable code.
 
@@ -15,18 +15,14 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 ## 🧠 Tech Stack
 
 ### 🌐 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,framer)
 
-- Framer Motion (animations)
-- Swiper.js (carousels & sliders)
+- Swiper.js (sliders & carousels)
 
 ---
 
 ### ⚙️ Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-- RESTful API design
-- Modular backend architecture
 
 ---
 
@@ -38,31 +34,31 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 ### 🔐 Authentication & Authorization
 ![Auth](https://skillicons.dev/icons?i=nextjs)
 
-- NextAuth (OAuth & credentials)
-- Clerk (user management & sessions)
-- JWT Authentication
+- NextAuth  
+- Clerk  
+- JWT Authentication  
 - Role-Based Access Control (RBAC)
 
 ---
 
 ### 💳 Payments
-![Payments](https://skillicons.dev/icons?i=stripe)
+![Stripe](https://skillicons.dev/icons?i=stripe)
 
-- Stripe payment integration
+- Stripe Payment Gateway
 
 ---
 
 ### ☁️ Media & Storage
-![Cloud](https://skillicons.dev/icons?i=cloudinary)
+![Cloudinary](https://skillicons.dev/icons?i=cloudinary)
 
-- Cloudinary (image & media handling)
+- Cloudinary (image & media optimization)
 
 ---
 
 ### 🤖 Machine Learning / Computer Vision
 ![ML](https://skillicons.dev/icons?i=python)
 
-- OpenCV (face recognition & analysis)
+- OpenCV (face recognition & concentration analysis)
 
 ---
 
@@ -78,27 +74,27 @@ I enjoy working on **backend systems, APIs, authentication flows, payments**, an
 
 ## 🚀 Projects
 
-### 🌍 **Ghumo — Travel & Stay Booking Platform (Airbnb-like)**
+### 🌍 Ghumo — Travel & Stay Booking Platform (Airbnb-like)
 
-- Full-stack accommodation booking platform inspired by Airbnb  
+- Full-stack accommodation booking platform  
 - Property listing, booking, and review workflows  
 - Secure user & host authentication  
-- Integrated online payments for bookings  
+- Online payments for bookings  
 - Media handling for property images  
-- Smooth UI interactions and animations  
+- Smooth UI interactions & animations  
 
 **Tech Used:**  
 Next.js, React, Node.js, Express.js, MongoDB,  
-NextAuth / Clerk, Stripe, Cloudinary,  
+NextAuth, Clerk, Stripe, Cloudinary,  
 Framer Motion, Swiper.js, REST APIs
 
 ---
 
-### 📘 **Shiksha — Smart E-Learning Platform**
+### 📘 Shiksha — Smart E-Learning Platform
 
-- Learning management system for students and courses  
+- Learning management system for students & courses  
 - Course enrollment and progress tracking  
-- Admin dashboard for user & content management  
+- Admin dashboard for content & users  
 - Secure authentication and access control  
 
 **Tech Used:**  
@@ -107,14 +103,24 @@ JWT Authentication, REST APIs
 
 ---
 
-### 🤖 **ML Backend — Face Recognition & Concentration Detection**
+### 🤖 ML Backend — Face Recognition & Concentration Detection
 
-- Machine-learning backend using computer vision  
+- Computer vision–based ML backend  
 - Detects face presence and estimates user concentration  
-- Designed as a backend service that can integrate with web apps  
+- Designed as a backend service for integration with web apps  
 
 **Tech Used:**  
 Python, OpenCV
+
+---
+
+## 📊 Personal Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjha26&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjha26&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha26&layout=compact&theme=tokyonight)
 
 ---
 
@@ -125,7 +131,7 @@ Python, OpenCV
   - Arrays & Strings
   - Stack & Queue
   - Linked List
-- Comfortable with **time and space complexity analysis**
+- Comfortable with **time & space complexity analysis**
 
 🔗 LeetCode: https://leetcode.com/
 
