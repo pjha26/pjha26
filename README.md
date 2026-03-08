@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pushkar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20OpenCV&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pushkar%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Socket.io%20%7C%20OpenCV&descAlignY=55&descSize=16" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Pushkar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Express+Enthusiast;Building+Production-Grade+Apps+%F0%9F%94%A5;Open+to+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Pushkar+Raj+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Socket.io+Enthusiast;Building+Production-Grade+Apps+%F0%9F%94%A5;Open+to+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,13 +27,14 @@
 
 ```ts
 const pushkar = {
+  name: "Pushkar Raj",
   role: "Full-Stack Developer",
-  focus: ["Production-grade Web Apps", "REST APIs", "Authentication Systems", "Payments"],
+  focus: ["Production-grade Web Apps", "Real-Time Systems", "REST APIs", "Auth & Payments"],
   currentlyBuilding: "Ghumo — Airbnb-like Travel & Stay Booking Platform",
   learning: ["System Design", "Advanced DSA", "ML Integration"],
-  askMeAbout: ["Next.js", "Node.js", "MongoDB", "Express", "Stripe", "Auth"],
+  askMeAbout: ["Next.js", "Node.js", "MongoDB", "Express", "Socket.io", "Stripe"],
   pronouns: "he/him",
-  funFact: "I built a face recognition ML backend just for fun 🤖"
+  funFact: "I built a concurrency-safe real-time booking system with MongoDB transactions 🔒"
 };
 ```
 
@@ -56,12 +57,15 @@ const pushkar = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🔐 Auth & Payments
@@ -86,6 +90,15 @@ const pushkar = {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 🚀 Deployment & Hosting
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
@@ -116,22 +129,24 @@ const pushkar = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Shiksha — Smart E-Learning Platform</h3>
+      <h3 align="center">⚡ ExpertBook — Real-Time Session Booking</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Real--Time%20Full--Stack-blueviolet?style=flat-square" />
       </p>
-      <p>A <strong>Learning Management System</strong> for students and educators.</p>
+      <p>A full-stack platform where professionals create event types and clients book slots with <strong>real-time availability</strong>.</p>
       <ul>
-        <li>📖 Course enrollment & progress tracking</li>
-        <li>👨‍💼 Admin dashboard for content & users</li>
-        <li>🔒 JWT-based secure authentication</li>
-        <li>📊 Clean, responsive UI</li>
+        <li>⚡ <strong>Socket.io</strong> — instant slot lock on booking, zero double-bookings</li>
+        <li>🔒 <strong>MongoDB Transactions</strong> — atomic writes, race-condition proof</li>
+        <li>🎥 Auto-generated mock Zoom & Google Meet links</li>
+        <li>📅 Downloadable <code>.ics</code> calendar files (Apple/Outlook/Google)</li>
+        <li>🔐 JWT-based auth for expert dashboards & profiles</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-000?style=flat-square" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
       </p>
     </td>
@@ -180,7 +195,7 @@ const pushkar = {
 
 | Platform | Progress |
 |----------|----------|
-| 🟡 **LeetCode** | 70+ problems solved |
+| 🟡 **LeetCode** | 100+ problems solved |
 | 📚 **Topics** | Arrays, Strings, Stack, Linked List |
 | ⏱️ **Skills** | Time & Space Complexity Analysis |
 
