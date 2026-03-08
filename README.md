@@ -196,7 +196,7 @@ const pushkar = {
 | Platform | Progress |
 |----------|----------|
 | 🟡 **LeetCode** | 100+ problems solved |
-| 📚 **Topics** | Arrays, Strings, Stack, Linked List |
+| 📚 **Topics** | Arrays, Strings,  Linked List ,Stack & Queue,Greedy,Binary Trees|
 | ⏱️ **Skills** | Time & Space Complexity Analysis |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
