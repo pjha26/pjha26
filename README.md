@@ -13,7 +13,7 @@
 <!-- Profile views & social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=pjha26&label=Profile%20Views&color=0e75b6&style=flat" alt="pjha26" />
-  <a href="https://linkedin.com/in/pushkar-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pushkar-raj-339988313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:praj80624@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pjha26"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
